@@ -20,5 +20,5 @@
 
 .map-icons {
     font-family: 'Nanum Gothic', sans-serif;
-    padding: 0;
+    padding: 0 !important;
 }
