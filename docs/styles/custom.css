@@ -1,3 +1,16 @@
 .root_daum_roughmap, .root_daum_roughmap_landing{
     width: 100%;
 }
+
+.section4-sec3-p{
+    color:#FF99CC;
+}
+
+.section4-sec3-s{
+    color: #55CCCC;
+}
+
+.map-icons{
+    font-family: 'Nanum Gothic', sans-serif;
+    padding: 0;
+}
