@@ -8,7 +8,7 @@
 
 * 날짜 : 2022년 10월 19일 13시 20분
 * 장소 : 경기도 안산시 빌라드지디 안산(GD컨벤션) 7층 / 그레이스 켈리홀
-* 청첩장 url : https://santea32.github.io/wedding-card/
+* 청첩장 url : https://santea.github.io/wedding-card/
 
 
 ## Thanks to
