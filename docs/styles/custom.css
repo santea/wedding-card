@@ -5,14 +5,16 @@
 .section4-sec3-p {
     background: none;
     border: none;
-    padding: 7px !important;
+    padding-left: 7px !important;
+    padding-right: 7px !important;
     color: #FF99CC;
 }
 
 .section4-sec3-s {
     background: none;
     border: none;
-    padding: 7px !important;
+    padding-left: 7px !important;
+    padding-right: 7px !important;
     color: #55CCCC;
 }
 
