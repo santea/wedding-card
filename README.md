@@ -2,7 +2,7 @@
 
 이 repository는 결혼식 초대를 위한 모바일청첩장입니다 :)
 
-![메인사진](https://github.com/santea32/wedding-card/raw/master/docs/images/pic2.jpeg)
+![메인사진](https://github.com/santea/wedding-card/raw/master/docs/images/pic2.jpeg)
 
 ## 예식정보
 
